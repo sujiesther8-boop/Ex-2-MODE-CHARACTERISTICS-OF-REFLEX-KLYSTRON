@@ -75,6 +75,7 @@ Don’t increase the repeller voltage more than -70V (i.e.) it should be between
 <img width="960" height="825" alt="WhatsApp Image 2026-05-18 at 1 11 35 AM (1)" src="https://github.com/user-attachments/assets/721a38e0-273e-4339-ac27-c3438411b727" />
 
 ## GRAPH
+<img width="882" height="1280" alt="image" src="https://github.com/user-attachments/assets/52b4cfc5-6192-4912-b068-a33020968d99" />
 
 
 ## RESULT:
